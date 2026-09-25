@@ -35,4 +35,4 @@ Essa é uma prévia local, sem envio de dados a servidores externos.
 
 Página clássica em HTML, com alternância entre tema claro e escuro, sem dependências externas além de fontes do Google Fonts.
 
-Ideias são muito bem vindas!
+A ideia principal é transformar isso em uma página ou app porem tenho conhecimento e recursos limitados... AGUARDO UMA LUZ!
